@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slaask Jobs</title>
+    <description>&quot;Your customer service app for Slack.&quot;
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 14 Apr 2016 19:48:08 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2016 19:48:08 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Senior Full Stack Web Developer</title>
+        <description>&lt;h4 id=&quot;slaask-is-looking-for-a-web-developer-to-participate-in-the-improvement-of-its-platform&quot;&gt;Slaask is looking for a web developer to participate in the improvement of its platform!&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;but-first-slaask--what-is-it&quot;&gt;But first, Slaask — what is it?&lt;/h3&gt;
+&lt;p&gt;It’s a startup that was launched one year ago by two chill guys on a mission to strengthen the bond between business and customer thanks to a novel solution: the full livechat experience housed directly inside of Slack. That’s it. Why didn’t somebody think of this before?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you don’t know what Slack is, definitely check them out: &lt;a href=&quot;http://slack.com&quot;&gt;http://slack.com&lt;/a&gt;. You’ll see for yourself, it’s magic.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;opportunity&quot;&gt;Opportunity:&lt;/h3&gt;
+&lt;p&gt;You’ll be a part of a tight team consisting of between three and four other developers. You’ll be working alongside one of the two co-founders and be directly involved in important company matters. We’ve got plenty of projects in the pipeline, and it will be all hands on deck for the unforeseeable future. This includes: frontend, backend (Ruby on Rails, NodeJS, Golang), and if you’re UI/UX-savvy there’s no telling what cool missions we might be throwing your way.&lt;/p&gt;
+
+&lt;h3 id=&quot;environment&quot;&gt;Environment:&lt;/h3&gt;
+&lt;p&gt;Just footsteps from the Euratechnologies tech hub, in a friendly, relaxed and stimulating atmosphere. It’s an ideal spot if the startup atmosphere appeals to you.&lt;/p&gt;
+
+&lt;h3 id=&quot;conditions&quot;&gt;Conditions:&lt;/h3&gt;
+&lt;p&gt;If you’re considering applying, keep in mind we’re strongly considering candidates who:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Are motivated by the project itself, as well as the entrepreneurial spirit in general!&lt;/li&gt;
+  &lt;li&gt;Keep a large collection of hats ; ) We’re looking for those who thrive in a multifaceted position and are able to react swiftly to unexpected shifts in responsibility.&lt;/li&gt;
+  &lt;li&gt;Are both responsible and rigorous: earn the respect and freedom you deserve as an employee by showing you’ve got things under control
+I had to take some creative liberties with the last line for it to make sense and be impactful. Does that work for you?&lt;/li&gt;
+  &lt;li&gt;Can hold their own in the English language. Due to our international customer base, good English skills will definitely come in handy :simple_smile:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-full-monty&quot;&gt;The Full Monty:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ruby on Rails/NodeJS.&lt;/li&gt;
+  &lt;li&gt;Golang.&lt;/li&gt;
+  &lt;li&gt;Integration (Html/Slim, CSS/Sass, especially Javascript!).&lt;/li&gt;
+  &lt;li&gt;In short, as they say: you’re “full stack” &lt;img class=&quot;emoji&quot; title=&quot;:wink:&quot; alt=&quot;:wink:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f609.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;icing-on-the-cake&quot;&gt;Icing on the Cake:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Server Management.&lt;/li&gt;
+  &lt;li&gt;UI/UX Design.&lt;/li&gt;
+  &lt;li&gt;Can sing in tune.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 14 Apr 2016 18:57:25 +0200</pubDate>
+        <link>/2016/04/14/senior-full-stack-web-developer.html</link>
+        <guid isPermaLink="true">/2016/04/14/senior-full-stack-web-developer.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

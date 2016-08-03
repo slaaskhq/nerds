@@ -1,0 +1,48 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jemoji
+
+# Site settings
+title: "Slaask Engineer Blog"
+description: > # this means to ignore newlines until "email:"
+    "Your customer service app for Slack."
+
+email: founders@slaask.com
+# blog logo
+logo: "https://avatars1.githubusercontent.com/u/18458912?v=3&s=90"
+# blog cover
+cover: "http://nerds.slaask.com/assets/images/happy-slaask-visitors-clients.png"
+
+name: 'Slaask Engineer Blog'
+author: 'Slaask, Inc.'
+author_image: "https://avatars1.githubusercontent.com/u/18458912?v=3&s=90"
+
+paginate:	5
+
+# url: "https://jobs.slaask.com" # the base hostname & protocol for your site
+# baseurl: "https://jobs.slaask.com"
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/slaaskhq
+    desc: Follow us on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url=https://jobs.slaask.com"
+
+  - icon:	github
+    url:	https://github.com/slaaskhq
+    desc:	Follow us on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
