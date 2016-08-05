@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the engineering blog!"
-date:   2016-06-01 07:15:00
+date:   2016-08-03 07:15:00
 tags:
 image:
 author_name: "Rémi Delhaye"
